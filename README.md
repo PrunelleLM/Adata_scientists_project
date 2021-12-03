@@ -2,7 +2,7 @@
 
 ## Introduction du PB
 
-1. [Graphic] Par H/F dans les médias (count de citation)
+1. [Graphic] Par H/F dans les médias (count de citation) + répartition selon l'âge (H/F)
 
 On cherche à démontrer la différence par : Différence couverture médiatique (nombre occurence qu'une quote/peronne) ou bien de représentation pure (le nombre)
 
@@ -24,7 +24,7 @@ Hypothèse de nous : les femmes parlent de sujets moins serieux
 ## Politique
 il faut récupéprer l'orientation politique des newspaper et puis:
 
-7. Existe-il une différence de représentation des femmes (count citation ou nb de femme / homme cités) ou des hommes en fonction de l'orientation politique des jounaux ?
+7. Existe-il une différence de représentation des femmes (count citation ou nb de femme / homme cités ou répartition selon l'âge (H/F)) ou des hommes en fonction de l'orientation politique des jounaux ?
 
 8. (Si tu es une femme en politique, quelle est ta couverture médiatique par rapport aux hommes).
 
