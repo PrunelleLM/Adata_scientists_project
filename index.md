@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Men/ Women, equals in the eyes of the media?
+
+"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"
+Amin Maalouf
+
 
 You can use the [editor on GitHub](https://github.com/PrunelleLM/Adata_scientists_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
