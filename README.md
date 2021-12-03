@@ -28,4 +28,4 @@ il faut récupéprer l'orientation politique des newspaper et puis:
 
 8. (Si tu es une femme en politique, quelle est ta couverture médiatique par rapport aux hommes).
 
-## Conclusion et fin
+## Conclusion et fin.
