@@ -42,8 +42,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 _"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"_
 Amin Maalouf
+
 ## What is the context?
-According to Amin Maalouf, the media are the perfect mirror of our society, everything that occurs in our society is transposed in the media. 
+According to Amin Maalouf, the media are the perfect mirror of our society, everything that occurs in our society is transposed in the media. This means that, by studying the tendences of subjects in the media, we can observe what was the moral during this period. 
 These last decades, discrimination against women has been the burning subject. Raping scandals like the Weinstein gate in 2017, questions about the salary differences lifted by famous Hollywoodien actress Jennifer Lawrence in 2016, the debate about the disappearance of women that are more than 40 in the movies, and the #MeToo scandal paved the way for changes in our society about women status. In 2019, in Switzerland, the first feminist strike in 40 years took place. They asked for salary equality, the right to be a mother and to work at the same time, they denounced marital violence (according to amnesty international, in Switzerland, a woman dies under the blows of their companion every two weeks) and want a new definition of rape that will protect the women more. Moreover, last year, sexism is brought to light on the EPFL campus by the #PayeTonEPFL group where thousands of people, and in majority women, testify about a time where they felt discriminated against. The number of testimony about sexual harassment, raping, and discrimination was appalling. 
  
 Can we see the impact of these scandals in the media? Are men and women equally represented in the media? Are they covering the same subjects?  
@@ -58,13 +59,17 @@ We obtained the same values as a study realize in .... by thr women ONU.
 
 But is this difference linked with a difference of number of quoted men and women or the number of time they are quoted?
 We found that men represent 80% of the quoted person whereas the women represent only 20%.
+
 ![Percentage_global_peok.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/Percentage_global_peok.png)
 
-Moreover, when we plot the data of the number of quotations per person, the outlier are in majority 
+Moreover, when we plot the data of the number of quotations per person, the outlier are in majority men, and event without the outliers, the difference in terms of number of quotation per individual is striking.
 
+We can then conclude that event though many feminist events have occured the last five years, we don't see the effect of these events now. Indeed, over a period of five years, the women are in a state of withdrawal comparing to men. They are less present on the public scene, and when they are, th meida coverage is smaller. 
+But maybe it will happen with a delay?
 
 
 ## What about political orientation?
-_"No one respects women more than I do."_ Donald Trump
+_"No one respects women more than I do."_ 
+Donald Trump
  
 
