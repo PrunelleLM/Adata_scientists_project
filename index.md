@@ -50,11 +50,17 @@ Can we see the impact of these scandals in the media? Are men and women equally 
 And are they equally distributed among the entire political specter? Does the political orientation of the media have an impact on how women are quoted?
  
 ## Number of times women are quoted in the data
-According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation ….. significantly changed.
- But is this difference linked with the number of male and female speakers or the number of time each speaker is quoted? For example, Donald Trump is quoted more than … in the dataset from …., whereas…..
-![Percentage_global_gender.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/Counts_global_gender.png)
+ According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation hasn't significally change. Indeed, in our timelapse, the repartition of occurences of speak between women and man stays on a base of 20% agains 80%.
 
+![Percentage_global_gender.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/Percentage_global_gender.png)
 
+We obtained the same values as a study realize in .... by thr women ONU.
+
+But is this difference linked with a difference of number of quoted men and women or the number of time they are quoted?
+We found that men represent 80% of the quoted person whereas the women represent only 20%.
+![Percentage_global_peok.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/Percentage_global_peok.png)
+
+Moreover, when we plot the data of the number of quotations per person, the outlier are in majority 
 
 
 
