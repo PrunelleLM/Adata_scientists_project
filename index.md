@@ -52,7 +52,7 @@ And are they equally distributed among the entire political specter? Does the po
 ## Number of times women are quoted in the data
 According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation ….. significantly changed.
  But is this difference linked with the number of male and female speakers or the number of time each speaker is quoted? For example, Donald Trump is quoted more than … in the dataset from …., whereas…..
-
+![Percentage_global_gender.png]
 
 
 
