@@ -1,6 +1,3 @@
-# Men & Women, Equals in the eyes of the Media?
-
-
 You can use the [editor on GitHub](https://github.com/PrunelleLM/Adata_scientists_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -53,13 +50,14 @@ According to Amin Maalouf, if the attitude of the people has changes towards wom
 
 ### Which percentage of the quotes are women's and which percentage men's?
 
-According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation hasn't significantly changed. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
+According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation hasn't significantly changed (faire un t-test sur les deux valuers pour prouver que c'est different). Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
 
 ![Percentage_global_gender.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/Percentage_global_gender.png)
 
-We obtained the same values as the study realized by the women ONU.
+But does this mean that **more men are quoted** or **each man is on average more quoted than women**?
 
-But is this difference linked with a difference in the number of quoted men and women or the number of times they are quoted? We found that men represent 80% of the quoted person whereas women represent only 20%.
+### How many different men are quoted in the dataset?
+We found that men represent 80% of the quoted person whereas women represent only 20%.
 
 ![Percentage_global_peok.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/Percentage_global_peok.png)
 
