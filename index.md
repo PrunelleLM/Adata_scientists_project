@@ -43,6 +43,19 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 _"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"_
 Amin Maalouf
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
+
+
 ## What is the context?
 According to Amin Maalouf, the media are the perfect mirror of our society, everything that occurs in our society is transposed in the media. This means that, by studying the tendences of subjects in the media, we can observe what was the moral during this period. 
 These last decades, discrimination against women has been the burning subject. Raping scandals like the Weinstein gate in 2017, questions about the salary differences lifted by famous Hollywoodien actress Jennifer Lawrence in 2016, the debate about the disappearance of women that are more than 40 in the movies, and the #MeToo scandal paved the way for changes in our society about women status. In 2019, in Switzerland, the first feminist strike in 40 years took place. They asked for salary equality, the right to be a mother and to work at the same time, they denounced marital violence (according to amnesty international, in Switzerland, a woman dies under the blows of their companion every two weeks) and want a new definition of rape that will protect the women more. Moreover, last year, sexism is brought to light on the EPFL campus by the #PayeTonEPFL group where thousands of people, and in majority women, testify about a time where they felt discriminated against. The number of testimony about sexual harassment, raping, and discrimination was appalling. 
