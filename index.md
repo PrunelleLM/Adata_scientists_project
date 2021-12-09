@@ -39,7 +39,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Introduction to the problem
 Ever since 2007, _#MeToo_ has been trending on social media, especially after the Weinstein gate in 2017. Since then, the debate around inequalities between men and women has been a burning subject. Organized sexual exploitation of young women, like the gate of Jeffrey Epstein, inequalities, trivialized sexism, sexual harassment, consent, all have been on the headline of the journals have triggered massive demonstrations all over the world. 
-And the media are not innocent in this social discrimination. According to research pursued by the UNWomen over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73 % of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
+And the media are not innocent in this social discrimination. 
+According to research pursued by the [UNWomen](https://beijing20.unwomen.org/en/in-focus/media) over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73 % of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
 
 But maybe after all these feminist movements, the media attitude towards women could have changed?
 
