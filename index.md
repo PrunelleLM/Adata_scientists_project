@@ -1,6 +1,6 @@
 # Men & Women, Equals in the eyes of the Media?
 
-"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"
+_"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"_
 Amin Maalouf
 
 
