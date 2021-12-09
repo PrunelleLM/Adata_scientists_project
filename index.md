@@ -42,7 +42,7 @@ According to research pursued by the [UNWomen](https://beijing20.unwomen.org/en/
 But maybe after all these feminist movements, the media attitude towards women could have changed?
 
  
-## Number of times women are quoted in the data
+## Inequal representation in the media in terms of coverage
 > _"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"_
 > Amin Maalouf
 
@@ -57,20 +57,26 @@ According to a simple analysis of the data, we can see very clearly that even th
 But does this mean that **more men are quoted** or **each man is on average more quoted than women**?
 
 ### How many different men are quoted in the dataset?
-We found that men represent 80% of the quoted person whereas women represent only 20%.
 
 ![Percentage_global_peok.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/Percentage_global_peok.png)
 
-Moreover, when we plot the data of the number of quotations per person, the outliers are in majority men, and event without the outliers, the difference in terms of the number of quotations per individual is striking.
+According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
+We can conclude that the difference in terms of number of men against woment is enougth to explain the above results.
 
+### How many quotation per individual?
+
+BESOIN D'UN BOXPLOT POUR POUVOIR BIEN VOIR LES RESULTATS. POTENTIELLEMENT RETIRER LES OUTLIERS POUR BIEN VOIR LE"COMMUN DES MORTELS"  DISONS MAIS AUSSI POUR POUVOIR ETUDIER QUI ILS SONT!
+
+
+### Conclusion
 We can then conclude that even though many feminist events have occurred in the last five years, we don't see the effect of these events now. 
 Indeed, over five years, the women are in a state of withdrawal compared to men. They are less present on the public scene, and when they are, the media coverage is smaller. But maybe it will happen with a delay?
 
 
-## What are the subjects covered by the two genders?
+## Inequal representation in the media in terms of subject
 
 
-## What about political orientation?
+## Inequal representation in the media in terms of political orientation
 > _"No one respects women more than I do."_ 
 Donald Trump
  
