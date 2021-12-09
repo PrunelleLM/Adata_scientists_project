@@ -1,6 +1,6 @@
 # Men & Women, Equals in the eyes of the Media?
 
-_"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"_
+> _"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"_
 Amin Maalouf
 
 
@@ -43,17 +43,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 _"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"_
 Amin Maalouf
 
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
-
-</p>
-</details>
 
 
 ## What is the context?
