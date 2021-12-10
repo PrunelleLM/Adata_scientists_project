@@ -59,15 +59,15 @@ But does this mean that **more men are quoted** or **each man is on average more
 
 ### How many different men are quoted in the dataset?
 
-![Percentage_global_peok.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/Percentage_global_peok.png)
+![Percentage_global_peok.png](/../gh-pages/Percentage_global_peok.png)
 
 According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
 We can conclude that the difference in terms of number of men against woment is enougth to explain the above results.
 
 ### How many quotation per individual?
-![num_occurence_per_speaker.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/num_occurence_per_speaker.png)
+![num_occurence_per_speaker.png](/../gh-pages/num_occurence_per_speaker.png)
 
-![without_outliers.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/gh-pages/without_outliers.png)
+![without_outliers.png](/../gh-pages/without_outliers.png)
 
 ### Conclusion
 We can then conclude that even though many feminist events have occurred in the last five years, we don't see the effect of these events now. 
