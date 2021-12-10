@@ -59,7 +59,7 @@ But does this mean that **more men are quoted** or **each man is on average more
 
 ### How many different men are quoted in the dataset?
 
-![Percentage_global_peok.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/df273888e9ab1174eabc2bc5ee071a5dead4b91b/Percentage_global_peok.png)
+![Percentage_global_peok.png](/Percentage_global_peok.png)
 
 According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
 We can conclude that the difference in terms of number of men against woment is enougth to explain the above results.
