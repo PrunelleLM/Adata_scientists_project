@@ -65,9 +65,9 @@ According to our graph, men represent 80% of the quoted person whereas women rep
 We can conclude that the difference in terms of number of men against woment is enougth to explain the above results.
 
 ### How many quotation per individual?
-![num_occurence_per_speaker.png](https://github.com/PrunelleLM/Adata_scientists_project/blob/ff028f766f62a13764fb813156985ad6d6c00dc8/num_occurence_per_speaker.png)
+![num_occurence_per_speaker.png](/num_occurence_per_speaker.png)
 
-![without_outliers.png](/../gh-pages/without_outliers.png)
+![without_outliers.png](/without_outliers.png)
 
 ### Conclusion
 We can then conclude that even though many feminist events have occurred in the last five years, we don't see the effect of these events now. 
