@@ -21,19 +21,23 @@ According to a simple analysis of the data, we can see very clearly that even th
 ![Percentage_global_gender.png](/images/Percentage_global_gender.png)
 
 
-But does this mean that **more men are quoted** or **each man is on average more quoted than women**?
+But does this mean that **each man is on average more quoted than women**or **more men are quoted** ?
+
+
+### How many quotation per individual?
+![without_outliers.png](/images/without_outliers.png)
+ Our graph doesn't show a strict difference between the number of quotation per men and per women. We performed a one-sided t-test to see wheter the difference is statistically significant or not. 
+ We found a p-value of ......
+ The difference is then.....
+ Consequently, we can that ...
 
 ### How many different men are quoted in the dataset?
 
 ![Percentage_global_peok.png](/images/Percentage_global_peok.png)
 
 According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
-We can conclude that the difference in terms of number of men against woment is enougth to explain the above results.
+We can conclude that the difference in terms of number of men against women is enougth to explain the above results.
 
-### How many quotation per individual?
-![num_occurence_per_speaker.png](/images/num_occurence_per_speaker.png)
-
-![without_outliers.png](/images/without_outliers.png)
 
 ### Are these people different in term of age?
 
@@ -55,6 +59,7 @@ Indeed, over five years, the women are in a state of withdrawal compared to men.
 ## Inequal representation in the media in terms of political orientation
 > _"No one respects women more than I do."_ 
 Donald Trump
+ 
  
 You can use the [editor on GitHub](https://github.com/PrunelleLM/Adata_scientists_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
