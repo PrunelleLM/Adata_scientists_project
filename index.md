@@ -59,7 +59,11 @@ Indeed, over five years, the women are in a state of withdrawal compared to men.
 ## Inequal representation in the media in terms of political orientation
 > _"No one respects women more than I do."_ 
 Donald Trump
+We chose to only work on the ten 
  
+![politic_ten_bigger_group.png](/images/politic_ten_bigger_group.png) 
+
+
  
 You can use the [editor on GitHub](https://github.com/PrunelleLM/Adata_scientists_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
