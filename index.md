@@ -71,7 +71,9 @@ We can conclude that the difference in terms of number of men against woment is 
 
 ### Are these people different in term of age?
 
-Accordint to our grph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
+![Percentage_global_peok.png](/age_repartition_hist.png)
+
+Accordint to our graph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
 There is however a statistically difference between the mean of the age between men and women, when we only keep the living people. 
 
 The curious thing about the dead people that are quoted is that the repartition men /women is close to the same as today, the men are quoted approximately three to four times more than women!
