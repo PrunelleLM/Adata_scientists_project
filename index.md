@@ -18,26 +18,26 @@ According to Amin Maalouf, if the attitude of the people has changes towards wom
 
 According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation hasn't significantly changed (faire un t-test sur les deux valuers pour prouver que c'est different). Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
 
-![Percentage_global_gender.png](/Percentage_global_gender.png)
+![Percentage_global_gender.png](/images/Percentage_global_gender.png)
 
 
 But does this mean that **more men are quoted** or **each man is on average more quoted than women**?
 
 ### How many different men are quoted in the dataset?
 
-![Percentage_global_peok.png](/Percentage_global_peok.png)
+![Percentage_global_peok.png](/images/Percentage_global_peok.png)
 
 According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
 We can conclude that the difference in terms of number of men against woment is enougth to explain the above results.
 
 ### How many quotation per individual?
-![num_occurence_per_speaker.png](/num_occurence_per_speaker.png)
+![num_occurence_per_speaker.png](/images/num_occurence_per_speaker.png)
 
-![without_outliers.png](/without_outliers.png)
+![without_outliers.png](/images/without_outliers.png)
 
 ### Are these people different in term of age?
 
-![Percentage_global_peok.png](/age_repartition_hist.png)
+![Percentage_global_peok.png](/images/age_repartition_hist.png)
 
 Accordint to our graph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
 There is however a statistically difference between the mean of the age between men and women, when we only keep the living people. 
