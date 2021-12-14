@@ -1,6 +1,8 @@
 ...
 layout: default
+
 title: Men and Women: equals in the eyes of the media?
+
 ...
 
 ## Introduction to the problem
