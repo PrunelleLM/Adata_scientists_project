@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+#basic options
+title: Men and women, equals in the eyes of the media?
+author: Prunelle LM, Odile A, Roxane P, Pablo R
+github_username: PrunelleLM
+
+#Build settings
+theme: default
