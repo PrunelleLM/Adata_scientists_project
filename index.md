@@ -1,5 +1,3 @@
-
-
 ## Introduction to the problem
 Ever since 2007, _#MeToo_ has been trending on social media, especially after the Weinstein gate in 2017. Since then, the debate around inequalities between men and women has been a burning subject. Organized sexual exploitation of young women, like the gate of Jeffrey Epstein, inequalities, trivialized sexism, sexual harassment, consent, all have been on the headline of the journals have triggered massive demonstrations all over the world. 
 And the media are not innocent in this social discrimination. 
