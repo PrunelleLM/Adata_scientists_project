@@ -1,4 +1,4 @@
-# Adata_scientists_project
+# Are men and women equal in the eyes of the media?
 
 ## Introduction du PB
 
