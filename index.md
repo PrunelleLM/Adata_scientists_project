@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Men and women, equals in the eyes of the media?
-description: This is just another page
 ---
 
 ## Introduction to the problem
