@@ -4,4 +4,4 @@ author: "Prunelle LM, Odile A, Roxane P, Pablo R"
 github_username: PrunelleLM
 
 #Build settings
-theme: default
+theme: jekyll-theme-cayman
